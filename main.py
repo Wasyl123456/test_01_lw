@@ -1,1 +1,1 @@
-print("GEOINFORMATYKA , METEOROLOGIA I ROZPOZNANIE RZĄDZI !!!<3")
+print("Dzisiaj jest piątek 21.03.2025")
