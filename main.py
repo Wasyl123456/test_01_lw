@@ -1,1 +1,1 @@
-print("Hello World")
+print("GEOINFORMATYKA , METEOROLOGIA I ROZPOZNANIE RZĄDZI !!!<3")
